@@ -73,7 +73,7 @@ Goo_Bday
     <!-- LOCKED view -->
     <div id="locked" class="locked">
       <div style="text-align:center">
-        <strong style="font-size:18px">⏳ Энэ хуудас 2026.10.17-нд нээгдэнэ</strong>
+        <strong style="font-size:18px">⏳ Энэ хуудас 2025.10.17-нд нээгдэнэ</strong>
         <div class="countdown" id="countdown">
           <div class="cd-item"><div class="num" id="cd-days">--</div><div class="lbl">өдөр</div></div>
           <div class="cd-item"><div class="num" id="cd-hours">--</div><div class="lbl">цаг</div></div>
@@ -151,7 +151,7 @@ Goo_Bday
 
 <script>
 /* ========== Settings ========== */
-const unlockDate = new Date("2026-10-17T00:00:00"); // local time
+const unlockDate = new Date("2025-10-17 06:10:00"); // local time
 const STORAGE_KEY = "goomaral_bday_v1";
 
 /* ========== Countdown ========== */
